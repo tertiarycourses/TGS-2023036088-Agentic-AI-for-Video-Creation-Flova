@@ -17,3 +17,11 @@ courseware/build/
 .playwright-mcp/
 courseware/LG-*.md.bak
 courseware/AP-*
+
+# Nothing assessment-related on GitHub (user rule, 7 Nov 2026)
+**/FG-*
+**/FG_*
+**/AP-*
+**/Assessment_Plan_*
+**/Answer*to *
+labs.zip

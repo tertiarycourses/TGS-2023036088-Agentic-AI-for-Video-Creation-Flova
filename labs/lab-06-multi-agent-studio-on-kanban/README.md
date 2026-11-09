@@ -1,7 +1,7 @@
 # Lab 06 — A Multi-Agent Video Studio on Kanban
 
 **Course:** Agentic AI for Video Creation (TGS-2023036088)  
-**Day 2 · Topic 3 · about 50 minutes · slides 128–133 · K5, A7**  
+**Day 2 · Topic 3 · about 50 minutes · slides 133–138 · K5, A7**  
 **Agent:** Hermes (profiles, Kanban, dashboard, cron) + Flova skill  
 **Features:** kanban-video-orchestrator · five profiles · dependency chain · human approval gate · paused schedule · adoption plan
 

@@ -1,7 +1,7 @@
 # Lab 04 — Review and Refine the Edit
 
 **Course:** Agentic AI for Video Creation (TGS-2023036088)  
-**Day 2 · Topic 2 · about 60 minutes · slides 92–96 · K2, K3, A4, A5**  
+**Day 2 · Topic 2 · about 60 minutes · slides 97–101 · K2, K3, A4, A5**  
 **Agent:** Flova (Storyboard, Timeline, chat) + QC checklist  
 **Features:** Scene-by-scene story review · technical QC · targeted fixes · regenerate one shot · auto captions · final export
 

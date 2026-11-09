@@ -1,6 +1,6 @@
 # Agentic AI for Video Creation — Learner Guide
 
-TGS-2023036088 · Version 5.0 · Tertiary Infotech Academy Pte Ltd (UEN 201200696W)
+TGS-2023036088 · Version 5.1 · Tertiary Infotech Academy Pte Ltd (UEN 201200696W)
 
 ## How to Use This Guide
 
@@ -59,7 +59,7 @@ Over two days you take the series from an idea to a repeatable studio:
 
 ## Topic 1 — Creative Strategy and End-to-End Video Production with Agentic AI
 
-Slides 20–65 · LU1 · **LO1:** Develop editing strategies and work plans to achieve creative vision.
+Slides 21–70 · LU1 · **LO1:** Develop editing strategies and work plans to achieve creative vision.
 
 **Knowledge:** K1 — Types of quality issues in video content
 
@@ -110,6 +110,61 @@ The same job — a 60-second video — done four ways.
 | Multi-agent studio | A team of agents researches, writes, makes, reviews and schedules. | The roles, the gates and the final approval. |
 
 Tip: This course walks the last three rows: one agent (T1), a video agent (T2), a multi-agent studio (T3).
+
+#### Two in Three New Micro-Dramas Are Now Made by AI
+
+AI went from novelty to default for short drama in nine months. Owl & Co. counted vertical-drama releases on 20 top apps outside China: AI-generated titles went from 3% in the first quarter of 2026 to 28% in the second and two-thirds in the third. Xania Monet, an AI R&B voice whose music is made on Suno, signed with Hallwood Media for a reported $3 million in September 2025. The Clueless says its AI model Aitana López earns up to €10,000 a month. The crew has shrunk to you and an agent, so your story, taste and approval are now the scarce skills.
+
+In nine months AI went from novelty to default for short drama, and it is already selling songs, faces and ads.
+
+- **2 in 3 — Micro-dramas, Q3 2026.** Share of vertical dramas released outside China on 20 top apps that were AI-generated. Q1: 3%. Q2: 28%. (Owl & Co., via The Hollywood Reporter)
+- **$3M — An AI singer signs.** Hallwood Media's deal for Xania Monet, an AI R&B voice made with Suno, after her songs reached Billboard charts. (Billboard, Sept 2025)
+- **€10k — An AI model's best month.** What Aitana López, created by Barcelona agency The Clueless, can earn from brand work. (Business Insider, Nov 2023)
+
+Tip: The crew shrinks to you and an agent. What stays human: the story, the taste and the sign-off.
+
+#### Five Ways People Already Get Paid for AI Video
+
+Five use cases, each with a named example: an AI short film (PLANET HELL), an AI micro-drama (ReelShort's The Great and Powerful Genie), an AI singer (Xania Monet), an AI influencer (Aitana López) and AI marketing videos. Which one could your organisation use first? Every row raises a rights question: faces, voices and songs need permission, and AI content needs a label.
+
+Every row is a real, named example. Watch one example of each in the next two slides.
+
+| Use case | What gets made | Named example |
+|---|---|---|
+| AI movie | A multi-minute short film with a world and a recurring cast. | PLANET HELL: a 5:15 sci-fi short on Seedance 2.5 (Theoretically Media, 2026). |
+| AI micro-drama | 1-2 minute vertical episodes, each ending on a hook. | The Great and Powerful Genie on ReelShort, the top AI micro-drama of Q3 2026. |
+| AI singer | A generated voice, face and music video. | Xania Monet: music made on Suno, a $3M record deal, a Billboard airplay chart entry. |
+| AI influencer | One persona who posts daily without a photo shoot. | Aitana López (The Clueless, Barcelona): up to €10,000 a month as a model. |
+| AI marketing video | UGC-style product ads, in many versions, in minutes. | UGC-style ads made in an AI marketing studio (the Short on the next slide but one). |
+
+Tip: Wherever a face, a voice or a song appears, check the rights and label the AI. The law comes later in Topic 1.
+
+#### PLANET HELL: Five Minutes of Sci-Fi, No Camera, No Crew
+
+Theoretically Media grew an AI trailer first made in Veo 3.1 into a 5:15 sci-fi short made with Seedance 2.5. Watch the excerpt in class as an editor would: count the cuts, spot any drift in faces or costumes, and estimate what each shot cost.
+
+Theoretically Media grew an AI trailer made in Veo 3.1 into a 5:15 short on Seedance 2.5 (YouTube, 2 Nov 2026).
+
+**Shown in class:** PLANET HELL — AI sci-fi short film (played on the slide).
+
+Video: Theoretically Media, 2 Nov 2026 (5:15). Click Enable Content, then click the video in Slide Show.
+
+- **A series, not a clip** — The channel calls it an ongoing series about a prison planet. A world you can return to is the business model.
+- **Two models, one look** — Trailer in Veo 3.1, film in Seedance 2.5: two models, one consistent world.
+- **Watch like an editor** — Count the cuts. Spot where a face or costume drifts. Guess what each shot cost.
+
+#### Drama, Influencer, Singer, Ad: Four Shorts Made With AI
+
+Four YouTube Shorts, one per use case: a Chinese AI micro-drama (The Healer's Refusal), an AI influencer persona, an AI cover of "Pretty Little Baby" (who owns a song an AI sings?) and UGC-style AI product ads. For each one, ask what it would have cost with a camera crew.
+
+Click each one in Slide Show and ask: what would this have cost with a camera crew?
+
+- **AI micro-drama** — The Healer's Refusal: a Chinese micro-drama, AI-generated end to end. Watch: https://www.youtube.com/shorts/opCFOkfX6YE
+- **AI influencer** — A creator builds a persona in an AI influencer studio. Watch: https://www.youtube.com/shorts/jZZJHrrlg04
+- **AI singer** — An AI cover of "Pretty Little Baby". Who owns this song? Watch: https://www.youtube.com/shorts/Y7i1z6UGOnQ
+- **AI marketing video** — UGC-style product ads made with AI. Watch: https://www.youtube.com/shorts/THplxezacD8
+
+Shorts: Fast Learning Videos, Shafin Tech, Ai Music Sunny, AI Tech Pro (YouTube). Click Enable Content, then click a video in Slide Show.
 
 #### Agentic AI vs AI Agents
 
@@ -370,13 +425,13 @@ Tip: The agent can draft the review; the producer owns the decisions.
 
 **You'll produce:** creative-brief.md, script-v1.md and script-review.md for Episode 1
 
-**Agent:** ChatGPT (or Claude / Gemini) — one AI agent  ·  **Time:** 50 min  ·  **K & A:** K1, A1  ·  **Slides:** 45–51
+**Agent:** ChatGPT (or Claude / Gemini) — one AI agent  ·  **Time:** 50 min  ·  **K & A:** K1, A1  ·  **Slides:** 50–56
 
 **Lab folder:** labs/lab-01-plan-the-story-with-one-agent/ — assets/studio-brief.md, assets/episode-01-idea.md, assets/script-review-template.md, assets/sample/script-v1.md, assets/sample/script-review.md
 
 ![Figure](courseware/assets/lg/lab-01-workflow.png)
 
-Figure — Lab 1 workflow (slide 46)
+Figure — Lab 1 workflow (slide 51)
 
 **Why each step matters**
 
@@ -535,13 +590,13 @@ A plan that hits its date has three features.
 
 **You'll produce:** character-bible.md, storyboard.md, editing-standards.md and work-plan.csv
 
-**Agent:** ChatGPT (same chat) + a spreadsheet  ·  **Time:** 60 min  ·  **K & A:** A2, A3  ·  **Slides:** 58–64
+**Agent:** ChatGPT (same chat) + a spreadsheet  ·  **Time:** 60 min  ·  **K & A:** A2, A3  ·  **Slides:** 63–69
 
 **Lab folder:** labs/lab-02-storyboard-standards-and-work-plan/ — assets/character-bible-template.md, assets/storyboard-template.md, assets/editing-standards-template.md, assets/work-plan-template.csv, assets/sample/storyboard.md, assets/sample/editing-standards.md
 
 ![Figure](courseware/assets/lg/lab-02-workflow.png)
 
-Figure — Lab 2 workflow (slide 59)
+Figure — Lab 2 workflow (slide 64)
 
 **Why each step matters**
 
@@ -620,9 +675,9 @@ Why it matters: Standards written down are standards an agent can follow. Standa
 
 ### Topic 1 recap
 
-#### Where You Are Now
+#### Episode 1 Exists on Paper, Fully Planned
 
-Episode 1 exists on paper — fully planned.
+Two labs in, you hold everything a crew needs before the first frame.
 
 - **Planned — Lab 1** — A creative brief, a 60-second script and a review of the edits each scene needs.
 - **Specified — Lab 2** — Characters, a six-shot storyboard, editing standards and a 10-day work plan.
@@ -630,7 +685,7 @@ Episode 1 exists on paper — fully planned.
 
 ## Topic 2 — AI-Assisted Video Editing, Storytelling and Quality Assurance
 
-Slides 66–97 · LU2 · **LO2:** Assess edited footage to enhance storytelling and ensure technical compliance.
+Slides 71–102 · LU2 · **LO2:** Assess edited footage to enhance storytelling and ensure technical compliance.
 
 **Knowledge:** K2 — Types of solutions to rectify quality issues; K3 — Parameters to assess video quality
 
@@ -784,13 +839,13 @@ Six habits that turn credits into a usable cut.
 
 **You'll produce:** Flova project "EP01 The Rainy-Day Tin" with three Elements, an approved storyboard and rough cut v1 exported
 
-**Agent:** Flova (flova.ai) — an AI video agent  ·  **Time:** 75 min  ·  **K & A:** K2, A4 (preparation)  ·  **Slides:** 78–82
+**Agent:** Flova (flova.ai) — an AI video agent  ·  **Time:** 75 min  ·  **K & A:** K2, A4 (preparation)  ·  **Slides:** 83–87
 
 **Lab folder:** labs/lab-03-create-episode-1-in-flova/ — assets/flova-prompts.md, assets/element-prompts.md, assets/checkpoint-log-template.md
 
 ![Figure](courseware/assets/lg/lab-03-workflow.png)
 
-Figure — Lab 3 workflow (slide 79)
+Figure — Lab 3 workflow (slide 84)
 
 **Why each step matters**
 
@@ -979,13 +1034,13 @@ ffmpeg -i EP01_v2.mp4 -af loudnorm=print_format=summary -f null -
 
 **You'll produce:** story-review.md, qc-report.md and EP01 v2 exported at 1080p
 
-**Agent:** Flova (Storyboard, Timeline, chat) + QC checklist  ·  **Time:** 60 min  ·  **K & A:** K2, K3, A4, A5  ·  **Slides:** 92–96
+**Agent:** Flova (Storyboard, Timeline, chat) + QC checklist  ·  **Time:** 60 min  ·  **K & A:** K2, K3, A4, A5  ·  **Slides:** 97–101
 
 **Lab folder:** labs/lab-04-review-and-refine-the-edit/ — assets/story-review-template.md, assets/qc-checklist.md, assets/fix-log-template.md, assets/sample/qc-report.md
 
 ![Figure](courseware/assets/lg/lab-04-workflow.png)
 
-Figure — Lab 4 workflow (slide 93)
+Figure — Lab 4 workflow (slide 98)
 
 **Why each step matters**
 
@@ -1040,9 +1095,9 @@ Why it matters: Review is where taste meets measurement. Fix the three things th
 
 ### Topic 2 recap
 
-#### Where You Are Now
+#### Episode 1 Is Made, Reviewed and Fixed
 
-Episode 1 is made, reviewed and fixed.
+From brief to v2 at 1080p, with every fix on record.
 
 - **Made — Lab 3** — A Flova project with Elements, an approved storyboard and a rough cut.
 - **Reviewed and fixed — Lab 4** — A story review, a QC report with values, three targeted fixes and v2 at 1080p.
@@ -1050,7 +1105,7 @@ Episode 1 is made, reviewed and fixed.
 
 ## Topic 3 — Workflow Optimisation, Industry Compliance and Emerging Video Technologies
 
-Slides 98–136 · LU3 · **LO3:** Develop remedial actions to ensure industry compliance and facilitate the adoption of new technologies in visual editing.
+Slides 103–143 · LU3 · **LO3:** Develop remedial actions to ensure industry compliance and facilitate the adoption of new technologies in visual editing.
 
 **Knowledge:** K4 — Industry quality standards; K5 — Technologies that improve efficiency and quality of video edits
 
@@ -1261,13 +1316,13 @@ Never edit the video. Never approve - only a human approves.
 
 **You'll produce:** Hermes with Flova connected, the kopi-compliance-review skill, and compliance-report.md with remedial actions for EP01 v2
 
-**Agent:** Hermes Agent (Desktop or CLI) + Flova CLI  ·  **Time:** 60 min  ·  **K & A:** K4, A6  ·  **Slides:** 113–118
+**Agent:** Hermes Agent (Desktop or CLI) + Flova CLI  ·  **Time:** 60 min  ·  **K & A:** K4, A6  ·  **Slides:** 118–123
 
 **Lab folder:** labs/lab-05-hermes-flova-skills-and-compliance/ — assets/skills/kopi-compliance-review/SKILL.md, assets/skills/kopi-compliance-review/references/standards.md, assets/episode-01-v2-notes.md, assets/remedial-action-template.md, assets/sample/compliance-report.md
 
 ![Figure](courseware/assets/lg/lab-05-workflow.png)
 
-Figure — Lab 5 workflow (slide 114)
+Figure — Lab 5 workflow (slide 119)
 
 **Why each step matters**
 
@@ -1455,13 +1510,13 @@ Track these weekly during the pilot. Decide with numbers.
 
 **You'll produce:** Five profiles, a Kanban board with the Episode 2 dependency chain, an EP02 draft in Flova, a paused weekly schedule and adoption-plan.md
 
-**Agent:** Hermes (profiles, Kanban, dashboard, cron) + Flova skill  ·  **Time:** 50 min  ·  **K & A:** K5, A7  ·  **Slides:** 128–133
+**Agent:** Hermes (profiles, Kanban, dashboard, cron) + Flova skill  ·  **Time:** 50 min  ·  **K & A:** K5, A7  ·  **Slides:** 133–138
 
 **Lab folder:** labs/lab-06-multi-agent-studio-on-kanban/ — assets/profiles/producer/SOUL.md, assets/profiles/scriptwriter/SOUL.md, assets/profiles/director/SOUL.md, assets/profiles/reviewer/SOUL.md, assets/profiles/publisher/SOUL.md, assets/episode-02-brief.md, assets/kanban-commands.md, assets/adoption-plan-template.md
 
 ![Figure](courseware/assets/lg/lab-06-workflow.png)
 
-Figure — Lab 6 workflow (slide 129)
+Figure — Lab 6 workflow (slide 134)
 
 **Why each step matters**
 
@@ -1537,15 +1592,47 @@ hermes dashboard          # opens the board in your browser
 
 Why it matters: Agents scale the work; Kanban keeps it in order; the approval card keeps a person responsible.
 
+### Key ideas: the ethics of GenAI video
+
+#### AI Video Has a Bill, and Someone Else Pays It
+
+GenAI video has costs that someone else pays. In January 2024 a finance worker at Arup in Hong Kong joined a video call with the company's "CFO" and colleagues, all deepfakes built from public footage, and made 15 transfers totalling HK$200 million (about US$25.6 million). CISAC's study with PMP Strategy puts 21% of audiovisual creators' revenue at risk by 2028, and 56% for dubbing and subtitling translators. MIT Technology Review measured about 3.4 million joules for one 5-second AI video, 700 times a high-quality image. In June 2025 Disney and Universal sued Midjourney for copying their characters, and Warner Bros. Discovery followed in September 2025. A multi-agent studio multiplies all of these, so the rules belong in every agent's SOUL.md and skills.
+
+Four numbers behind the ethics of GenAI video. Every clip your studio generates sits on top of them.
+
+- **$25M — One deepfake video call.** An Arup worker in Hong Kong sent HK$200M in 15 transfers after a call where the "CFO" and every colleague were deepfakes. (Hong Kong Police via CNN, Feb 2024)
+- **21% — Creators' income at risk.** Share of audiovisual creators' revenue at risk from GenAI by 2028. Dubbing and subtitling translators: 56%. (CISAC / PMP Strategy, Dec 2024)
+- **700× — Energy of one 5-second clip.** About 3.4 million joules: 700 times a high-quality AI image, or a microwave running for over an hour. (MIT Technology Review, May 2025)
+- **3 — Studios suing Midjourney.** Disney and Universal in June 2025 ("a bottomless pit of plagiarism"), then Warner Bros. Discovery over Superman and Batman. (CNBC, Jun 2025; AP, Sept 2025)
+
+Tip: Your agent team runs at scale, so its choices scale too: whose face, whose style, how many drafts, and whether the label is on.
+
+#### Seven Lines Your Studio Never Crosses
+
+Seven ethical issues run through every AI video. Consent and likeness: the 2023 SAG-AFTRA contract requires consent and pay before a digital replica of an actor is made or used. Copyright: studios are suing image and video generators over training data and look-alike characters, so never prompt a named film, artist or character. Deepfakes: synthetic video of real people erodes trust in footage and enables fraud. Jobs: creators face real income loss, so credit and pay the people you work with. Bias: Bloomberg's review of 5,100 Stable Diffusion images found it exaggerates race and gender stereotypes, so cast deliberately. Environment: video generation is energy-hungry, which is one more reason to draft at 720p and regenerate one shot, not the whole video. Transparency: label AI media at upload; in Singapore, realistic deepfakes of election candidates are banned during elections under the 2024 amendment Act.
+
+The core ethical issues of GenAI video, each with a real case and the rule your Flova and Hermes studio follows.
+
+| Issue | What already happened | Your rule |
+|---|---|---|
+| Consent and likeness | SAG-AFTRA's 2023 deal: no digital replica of an actor without consent and pay. | No real face or voice without written consent. |
+| Copyright and creators | Disney, Universal and Warner Bros. Discovery v. Midjourney, 2025. | Never prompt a named film, artist or character. |
+| Deepfakes and misinformation | Arup lost HK$200 million to a deepfake video call. | No realistic fakes of real people or events. |
+| Jobs and income | CISAC: 21% of audiovisual creators' income at risk by 2028. | Credit and pay the humans in your pipeline. |
+| Bias and representation | Bloomberg: 5,100 Stable Diffusion faces made CEOs white men and fast-food workers dark-skinned. | Cast on purpose; check who plays which role. |
+| Environmental cost | One 5-second clip ≈ an hour of a microwave (MIT Technology Review). | Draft at 720p; regenerate one shot, not the video. |
+| Transparency and labels | Singapore bans deepfakes of election candidates (2024 amendment Act). | AI label on at upload, every time. |
+
 ### Topic 3 recap
 
-#### Where You Are Now
+#### Kopi & Coins Is Now a Studio, Not a One-Off
 
-Kopi & Coins is a studio, not a one-off.
+Your agents plan, make, check and schedule. You approve.
 
 - **Connected — Lab 5** — Hermes drives Flova, applies the studio's compliance skill and plans remedies.
 - **Scaled — Lab 6** — Five agents produce Episode 2 on Kanban, with a human approval gate and a paused schedule.
 - **Adopted** — An adoption plan with a baseline, a pilot, metrics and governance.
+- **Accountable** — Seven studio rules: consent, copyright, deepfakes, jobs, bias, energy and the AI label.
 
 ## Course Summary
 
@@ -1604,8 +1691,6 @@ Two days, three kinds of agent, one series.
 - Hermes Agent — https://hermes-agent.nousresearch.com/
 - Hermes Agent documentation — https://hermes-agent.nousresearch.com/docs
 - Hermes Skills Hub — https://hermes-agent.nousresearch.com/docs/skills
-- Rob The AI Guy (2026) This NEW AI Video Agent Creates & Edits Videos in Seconds — https://www.youtube.com/watch?v=ecd-rjnhhoY
-- Isa does AI (2026) How to Make a Micro Drama with AI (Full Guide) — https://www.youtube.com/watch?v=vIksC7naeHo
 - EBU R 128 Loudness normalisation and permitted maximum level — https://tech.ebu.ch/publications/r128
 - W3C WCAG 2.2 — 1.2.2 Captions (Prerecorded) — https://www.w3.org/TR/WCAG22/
 - YouTube Help — Disclosing altered or synthetic content — https://support.google.com/youtube/answer/14328491
@@ -1614,6 +1699,17 @@ Two days, three kinds of agent, one series.
 - Advertising Standards Authority of Singapore — SCAP — https://asas.org.sg/
 - Intellectual Property Office of Singapore — Copyright — https://www.ipos.gov.sg/
 - C2PA Content Credentials — https://c2pa.org/
+- The Hollywood Reporter (2026) Two-thirds of microdramas released in the latest quarter outside China were AI generated (Owl & Co.) — https://www.hollywoodreporter.com/business/digital/ai-generated-microdramas-two-thirds-all-releases-1236735402
+- Billboard (Sept 2025) AI music artist Xania Monet signs multimillion-dollar record deal — https://www.billboard.com/pro/ai-music-artist-xania-monet-multimillion-dollar-record-deal
+- Business Insider (Nov 2023) Meet the AI model earning up to $11,000 a month — https://www.businessinsider.com/ai-influencer-aitana-clueless-agency-tech-spain-2023-11
+- CNN (4 Feb 2024) Finance worker pays out $25 million after video call with deepfake "chief financial officer" — https://www.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk
+- CISAC / PMP Strategy (Dec 2024) Study on the economic impact of generative AI in music and audiovisual — https://www.cisac.org/services/reports-and-research/cisacpmp-strategy-ai-study
+- MIT Technology Review (20 May 2025) We did the math on AI's energy footprint — https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech
+- CNBC (11 Jun 2025) Disney and Universal sue Midjourney for AI copyright infringement — https://www.cnbc.com/2025/06/11/disney-universal-midjourney-ai-copyright.html
+- AP News (Sept 2025) Warner Bros. sues Midjourney for copyright infringement — https://apnews.com/article/warner-bros-midjourney-ai-copyright-lawsuit-dc-studios-b87d80d7b4a4dfdcf0ee149d30830551
+- Bloomberg (2023) Generative AI takes stereotypes and bias from bad to worse — https://www.bloomberg.com/graphics/2023-generative-ai-bias
+- SAG-AFTRA (2023) TV/Theatrical contract: AI and digital replica FAQs — https://www.sagaftra.org/sites/default/files/sa_documents/AIFAQs.pdf
+- Elections (Integrity of Online Advertising) (Amendment) Act 2024, Singapore Statutes Online — https://sso.agc.gov.sg/Acts-Supp/34-2024/Published/20241121?DocDate=20241121
 
 ## Support
 

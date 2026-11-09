@@ -1,7 +1,7 @@
 # Lab 05 — Hermes, Flova, Skills and a Compliance Review
 
 **Course:** Agentic AI for Video Creation (TGS-2023036088)  
-**Day 2 · Topic 3 · about 60 minutes · slides 113–118 · K4, A6**  
+**Day 2 · Topic 3 · about 60 minutes · slides 118–123 · K4, A6**  
 **Agent:** Hermes Agent (Desktop or CLI) + Flova CLI  
 **Features:** Install Hermes · connect Flova · hub skills · plugins · a custom compliance skill · remedial action plan
 

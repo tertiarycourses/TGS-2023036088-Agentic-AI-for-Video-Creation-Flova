@@ -1,5 +1,14 @@
 # Courseware Changelog
 
+## v5.1 - 9 November 2026 — Flova + Hermes edition
+
+- Same design system as the Claude + Higgsfield edition (v6.2): big-number, video and Shorts layouts, the light download panel (Install Hermes Agent) and a "Login to LMS and Download Course Material" slide with the real TMS sign-in screenshot after the Ground Rules.
+- Topic 1 adds the impact of AI on video creation (Owl & Co., Billboard, Business Insider figures) and five use cases (AI movie, micro-drama, singer, influencer, marketing video), with PLANET HELL and four YouTube Shorts playable in Slide Show.
+- Topic 3 now ends with the core ethical issues of GenAI video: four verified figures (Arup deepfake, CISAC/PMP Strategy, MIT Technology Review, studio lawsuits against Midjourney) and seven studio rules (consent, copyright, deepfakes, jobs, bias, energy, labelling). The LG gives them their own section.
+- The three topic recaps get their own titles; the Topic 3 recap adds "Accountable". Day 2 afternoon re-timed: the multi-agent lecture is 20 minutes, Lab 6 keeps its 50 minutes, ethics and summary run from 4:10 PM.
+- The deck now opens in PowerPoint without the Repair prompt: broken template links relinked and `presentation.xml` in schema order, and the build fails if either fault returns. Deck 149 slides.
+- Assessment papers unchanged.
+
 ## v5.0 - 8 October 2026
 
 - Realigned to the approved Course Proposal and course page: three Learning Units (LU1-LU3) and Learning Outcomes LO1-LO3 verbatim; TSC Video Editing-4 (MED-MPN-4005-1.1) Knowledge K1-K5 and Abilities A1-A7 now stated on the slides (Learning Outcomes, K and A list slides, a per-topic LO/K/A slide) and in every document.

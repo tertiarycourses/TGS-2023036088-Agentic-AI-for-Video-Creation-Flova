@@ -1,7 +1,7 @@
 # Lab 02 — Storyboard, Editing Standards and Work Plan
 
 **Course:** Agentic AI for Video Creation (TGS-2023036088)  
-**Day 1 · Topic 1 · about 60 minutes · slides 58–64 · A2, A3**  
+**Day 1 · Topic 1 · about 60 minutes · slides 63–69 · A2, A3**  
 **Agent:** ChatGPT (same chat) + a spreadsheet  
 **Features:** Character bible · six-shot storyboard · editing standards and guidelines · post-production work plan
 

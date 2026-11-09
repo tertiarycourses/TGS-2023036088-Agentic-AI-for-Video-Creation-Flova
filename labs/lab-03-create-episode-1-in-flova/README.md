@@ -1,7 +1,7 @@
 # Lab 03 — Create Episode 1 with the Flova Video Agent
 
 **Course:** Agentic AI for Video Creation (TGS-2023036088)  
-**Day 1 · Topic 2 · about 75 minutes · slides 78–82 · K2, A4 (preparation)**  
+**Day 1 · Topic 2 · about 75 minutes · slides 83–87 · K2, A4 (preparation)**  
 **Agent:** Flova (flova.ai) — an AI video agent  
 **Features:** Elements · Creative Brief · checkpoints · Storyboard · generation · Timeline · export
 

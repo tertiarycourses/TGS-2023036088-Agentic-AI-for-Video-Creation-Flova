@@ -9,7 +9,7 @@ Plan, make and scale short-form video with AI agents. Learners plan a micro-dram
 | TSC | Video Editing-4 (`MED-MPN-4005-1.1`), Skills Framework for Media |
 | Duration | 2 days, 16 hours (14 training hours + 2 assessment hours) |
 | Class time | 9:30 AM – 6:30 PM |
-| Version | v5.0, 8 October 2026 |
+| Version | v5.1, Flova + Hermes edition, 9 November 2026 |
 | Registration | [View course details and register](https://www.tertiarycourses.com.sg/wsq-agentic-ai-for-video-creation.html) |
 | Funding | Up to 70% SkillsFuture funding for eligible Singapore Citizens and PRs (50% baseline; 70% for SMEs and learners aged 40 and above). Eligibility and terms apply. |
 
@@ -60,10 +60,9 @@ Each lab folder contains:
 
 ## Courseware
 
-- [Slide deck (PPTX)](courseware/PPT-Agentic%20AI%20for%20Video%20Creation-v5.0.pptx) · [PDF](courseware/PPT-Agentic%20AI%20for%20Video%20Creation-v5.0.pdf)
+- [Slide deck (PPTX)](courseware/PPT-Agentic%20AI%20for%20Video%20Creation-v5.1.pptx) · [PDF](courseware/PPT-Agentic%20AI%20for%20Video%20Creation-v5.1.pdf)
 - [Learner Guide (DOCX)](courseware/LG-Agentic%20AI%20for%20Video%20Creation.docx) · [PDF](courseware/LG-Agentic%20AI%20for%20Video%20Creation.pdf) · [Markdown](LG-Agentic%20AI%20for%20Video%20Creation.md)
 - [Lesson Plan (DOCX)](courseware/LP-Agentic%20AI%20for%20Video%20Creation.docx) · [PDF](courseware/LP-Agentic%20AI%20for%20Video%20Creation.pdf)
-- [Facilitator Guide (DOCX)](courseware/FG-Agentic%20AI%20for%20Video%20Creation.docx) · [PDF](courseware/FG-Agentic%20AI%20for%20Video%20Creation.pdf)
 
 ## Assessment
 
@@ -79,12 +78,11 @@ This repository is for learners and contains:
 - the slide deck
 - the Learner Guide, including its Markdown version
 - the Lesson Plan
-- the Facilitator Guide
 - the lab pack
 
 The following are kept private and are not published here:
 - assessment papers and answer keys
-- the Assessment Plan
+- the Facilitator Guide and the Assessment Plan
 - source references
 - build tooling
 - archives

@@ -1,7 +1,7 @@
 # Lab 01 — Plan the Story with a Single AI Agent
 
 **Course:** Agentic AI for Video Creation (TGS-2023036088)  
-**Day 1 · Topic 1 · about 50 minutes · slides 45–51 · K1, A1**  
+**Day 1 · Topic 1 · about 50 minutes · slides 50–56 · K1, A1**  
 **Agent:** ChatGPT (or Claude / Gemini) — one AI agent  
 **Features:** Creative brief · 60-second script · script review for edits · quality-issue forecast
 
